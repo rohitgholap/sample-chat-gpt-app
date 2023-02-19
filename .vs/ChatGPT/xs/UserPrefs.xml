@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{2FF2CF62-2490-40B7-877A-E7F8C42E5F12}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChatGPT PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatGPT/Controllers/ChatGPTController.cs">
+    <Files>
+      <File FileName="ChatGPT/appsettings.json" Line="11" Column="1" />
+      <File FileName="ChatGPT/Program.cs" Line="13" Column="36" />
+      <File FileName="ChatGPT/WeatherForecast.cs" Line="14" Column="1" />
+      <File FileName="ChatGPT/Controllers/WeatherForecastController.cs" Line="7" Column="56" />
+      <File FileName="ChatGPT/Properties/launchSettings.json" Line="25" Column="32" />
+      <File FileName="ChatGPT/Controllers/ChatGPTController.cs" Line="19" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatGPT" expanded="True">
+            <Node name="ChatGPT" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ChatGPTController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
